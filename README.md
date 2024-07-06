@@ -1,7 +1,3 @@
-Certainly! Here's a GitHub README file template for your Library Management System (LMS):
-
----
-
 # Library Management System (LMS)
 
 This project is a simple command-line application in Python that manages book entries in a SQLite database. It allows users to list, add, delete, and update book entries.
